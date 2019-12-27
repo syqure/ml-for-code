@@ -1,0 +1,1 @@
+How To create natural language semantic search for arbitrary objects for deep learning				https://towardsdatascience.com/semantic-code-search-3cd6d244a39c
